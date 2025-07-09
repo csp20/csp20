@@ -22,4 +22,3 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO&theme=radical)
 
-&theme=tokyonight
