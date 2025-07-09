@@ -1,16 +1,26 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Carlos
 
-<!--
-**csp20/csp20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador web con formación en DAW  
+⚡ Explorando el mundo del análisis de datos y la ciberseguridad  
+🚀 Me encanta aprender y construir cosas útiles
+🎓Graduado en MEDAC
 
-Here are some ideas to get you started:
+## 🔧 Tecnologías que uso
+- HTML, CSS,  JavaScript
+- Python, PHP, SQL
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Cómo contactarme
+- 📫Email: carlossp20.dev@gmail.com
+
+🌱 Mi proyecto más reciente https://compiso.infy.uk/
+
+📊 -ESTADISTICAS-
+
+![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=csp20&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csp20&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO&theme=radical)
+
+&theme=tokyonight
