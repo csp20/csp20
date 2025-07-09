@@ -4,18 +4,17 @@
 ⚡ Explorando el mundo del análisis de datos y la ciberseguridad  
 🚀 Me encanta aprender y construir cosas útiles
 🎓Graduado en MEDAC
+🌱 Mi proyecto más reciente https://compiso.infy.uk/
 
-## 🔧 Tecnologías que uso
+## 🔧 -Tecnologías que uso-
 - HTML, CSS,  JavaScript
 - Python, PHP, SQL
 - Git & GitHub
 
-## 📫 Cómo contactarme
+## 📫 -Cómo contactarme-
 - 📫Email: carlossp20.dev@gmail.com
 
-🌱 Mi proyecto más reciente https://compiso.infy.uk/
-
-📊 -ESTADISTICAS-
+## 📊 -ESTADISTICAS-
 
 ![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=csp20&show_icons=true&theme=radical)
 
