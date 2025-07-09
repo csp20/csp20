@@ -3,7 +3,9 @@
 💻 Desarrollador web con formación en DAW  
 ⚡ Explorando el mundo del análisis de datos y la ciberseguridad  
 🚀 Me encanta aprender y construir cosas útiles
+<br>
 🎓Graduado en MEDAC
+<br>
 🌱 Mi proyecto más reciente https://compiso.infy.uk/
 
 ## 🔧 -Tecnologías que uso-
@@ -16,9 +18,7 @@
 
 ## 📊 -ESTADISTICAS-
 
-![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=csp20&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csp20&layout=compact&theme=radical)
+![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=csp20&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csp20&layout=compact&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO&theme=radical)
 
