@@ -1,3 +1,4 @@
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Carlos;Desarrollador+web+full+stack;Apasionado+por+la+tecnología" />
 
 💻 Desarrollador web con formación en DAW  
@@ -7,7 +8,7 @@
 🎓Graduado en MEDAC
 <br>
 🌱 Mi proyecto más reciente https://compiso.infy.uk/
-<br>
+<br> <br>
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 
 ## 🔧 -Tecnologías que uso-
@@ -25,6 +26,8 @@
 - 📫Email: carlossp20.dev@gmail.com
 
 ## 📊 -ESTADISTICAS-
+![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=csp20&show_icons=true&theme=radical)
+
 
 ![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=csp20&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csp20&layout=compact&theme=radical)
 
