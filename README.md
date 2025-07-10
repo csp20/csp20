@@ -7,6 +7,7 @@
 🎓Graduado en MEDAC
 <br>
 🌱 Mi proyecto más reciente https://compiso.infy.uk/
+<br>
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 
 ## 🔧 -Tecnologías que uso-
