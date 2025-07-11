@@ -3,6 +3,7 @@
 
 💻 Desarrollador web con formación en DAW  
 ⚡ Explorando el mundo de la programación y el desarrollo web 
+<br>
 🚀 Me encanta aprender y construir cosas útiles
 <br>
 🎓Graduado en MEDAC
