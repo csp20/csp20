@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Carlos;Desarrollador+web+full+stack;Apasionado+por+la+tecnología" />
 
 💻 Desarrollador web con formación en DAW  
-⚡ Explorando el mundo del análisis de datos y la ciberseguridad  
+⚡ Explorando el mundo de la programación y el desarrollo web 
 🚀 Me encanta aprender y construir cosas útiles
 <br>
 🎓Graduado en MEDAC
